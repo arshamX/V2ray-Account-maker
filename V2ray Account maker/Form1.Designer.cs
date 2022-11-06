@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panelTop = new System.Windows.Forms.Panel();
             this.panelPlace3 = new System.Windows.Forms.Panel();
@@ -45,6 +46,7 @@
             this.lblCounter = new System.Windows.Forms.Label();
             this.panelLeft = new System.Windows.Forms.Panel();
             this.pbQrCode = new System.Windows.Forms.PictureBox();
+            this.timerPicture = new System.Windows.Forms.Timer(this.components);
             this.panelTop.SuspendLayout();
             this.panelPlace3.SuspendLayout();
             this.panelBott.SuspendLayout();
@@ -216,6 +218,10 @@
             this.pbQrCode.TabIndex = 0;
             this.pbQrCode.TabStop = false;
             // 
+            // timerPicture
+            // 
+            this.timerPicture.Interval = 1000;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -262,6 +268,7 @@
         private System.Windows.Forms.PictureBox pbQrCode;
         private System.Windows.Forms.Panel panelPlace5;
         private System.Windows.Forms.PictureBox pbLogo;
+        private System.Windows.Forms.Timer timerPicture;
     }
 }
 
