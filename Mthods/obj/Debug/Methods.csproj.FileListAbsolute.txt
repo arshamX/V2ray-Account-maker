@@ -1,0 +1,6 @@
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\Mthods.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\Mthods.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Mthods.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Mthods.pdb

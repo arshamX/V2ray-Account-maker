@@ -36,6 +36,9 @@
     <ApplicationIcon>53538291-10613180-3b48-11e9-91d8-d96129c1ac47.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Mthods">
+      <HintPath>..\Mthods\bin\Debug\Mthods.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
