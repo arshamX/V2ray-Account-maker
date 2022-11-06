@@ -1,0 +1,11 @@
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\V2ray Account maker.exe.config
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\V2ray Account maker.exe
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\V2ray Account maker.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.csproj.AssemblyReference.cache
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray_Account_maker.Form1.resources
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray_Account_maker.Properties.Resources.resources
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.csproj.GenerateResource.cache
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.csproj.CoreCompileInputs.cache
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.exe
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.pdb
