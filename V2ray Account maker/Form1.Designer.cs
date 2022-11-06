@@ -136,6 +136,7 @@
             this.btnCreate.TabIndex = 0;
             this.btnCreate.Text = "Create";
             this.btnCreate.UseVisualStyleBackColor = true;
+            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
             // panelCenter
             // 
@@ -155,9 +156,9 @@
             this.panelRight.Controls.Add(this.panelPlace5);
             this.panelRight.Controls.Add(this.panelPlace4);
             this.panelRight.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelRight.Location = new System.Drawing.Point(248, 0);
+            this.panelRight.Location = new System.Drawing.Point(270, 0);
             this.panelRight.Name = "panelRight";
-            this.panelRight.Size = new System.Drawing.Size(236, 250);
+            this.panelRight.Size = new System.Drawing.Size(214, 250);
             this.panelRight.TabIndex = 1;
             // 
             // panelPlace5
@@ -166,7 +167,7 @@
             this.panelPlace5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelPlace5.Location = new System.Drawing.Point(0, 20);
             this.panelPlace5.Name = "panelPlace5";
-            this.panelPlace5.Size = new System.Drawing.Size(232, 226);
+            this.panelPlace5.Size = new System.Drawing.Size(210, 226);
             this.panelPlace5.TabIndex = 1;
             // 
             // pbLogo
@@ -175,7 +176,7 @@
             this.pbLogo.Image = global::V2ray_Account_maker.Properties.Resources.a;
             this.pbLogo.Location = new System.Drawing.Point(0, 0);
             this.pbLogo.Name = "pbLogo";
-            this.pbLogo.Size = new System.Drawing.Size(232, 226);
+            this.pbLogo.Size = new System.Drawing.Size(210, 226);
             this.pbLogo.TabIndex = 0;
             this.pbLogo.TabStop = false;
             // 
@@ -185,7 +186,7 @@
             this.panelPlace4.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelPlace4.Location = new System.Drawing.Point(0, 0);
             this.panelPlace4.Name = "panelPlace4";
-            this.panelPlace4.Size = new System.Drawing.Size(232, 20);
+            this.panelPlace4.Size = new System.Drawing.Size(210, 20);
             this.panelPlace4.TabIndex = 0;
             // 
             // lblCounter
@@ -206,7 +207,7 @@
             this.panelLeft.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelLeft.Location = new System.Drawing.Point(0, 0);
             this.panelLeft.Name = "panelLeft";
-            this.panelLeft.Size = new System.Drawing.Size(248, 250);
+            this.panelLeft.Size = new System.Drawing.Size(270, 250);
             this.panelLeft.TabIndex = 0;
             // 
             // pbQrCode
@@ -214,13 +215,14 @@
             this.pbQrCode.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pbQrCode.Location = new System.Drawing.Point(0, 0);
             this.pbQrCode.Name = "pbQrCode";
-            this.pbQrCode.Size = new System.Drawing.Size(244, 246);
+            this.pbQrCode.Size = new System.Drawing.Size(266, 246);
             this.pbQrCode.TabIndex = 0;
             this.pbQrCode.TabStop = false;
             // 
             // timerPicture
             // 
             this.timerPicture.Interval = 1000;
+            this.timerPicture.Tick += new System.EventHandler(this.timerPicture_Tick);
             // 
             // Form1
             // 
@@ -234,6 +236,8 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "V2ray Account Maker";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panelTop.ResumeLayout(false);
             this.panelPlace3.ResumeLayout(false);
             this.panelPlace3.PerformLayout();

@@ -31,22 +31,5 @@ namespace Mthods
             }
             return cell;
         }
-        private static string convertTobase64(string info)
-        {
-            string base64 = Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(info));
-            return base64;
-        }
-        private static Bitmap createQrCode(string info)
-        {
-            try
-            {
-                Bitmap qrcode = QRCodeWriter.CreateQrCode(info, 200, QRCodeWriter.QrErrorCorrectionLevel.Medium).Render();
-                return qrcode;
-            }
-            catch
-            {
-                return null;
-            }
-        }
     }
 }

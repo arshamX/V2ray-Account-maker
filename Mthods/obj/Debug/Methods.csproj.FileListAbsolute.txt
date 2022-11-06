@@ -4,3 +4,10 @@ C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Methods.cs
 C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Mthods.dll
 C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Mthods.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\Constants.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\IronBarCode.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\Leaf.xNet.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\Constants.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\IronBarCode.xml
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\bin\Debug\Leaf.xNet.xml
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\Mthods\obj\Debug\Methods.csproj.CopyComplete

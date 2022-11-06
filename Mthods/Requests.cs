@@ -33,7 +33,7 @@ namespace Mthods
         {
             try
             {
-                string port = (new Random()).Next(22,647738).ToString();
+                string port = (new Random()).Next(22,64773).ToString();
                 string uuid = cMethods.idMaker().ToString();
                 string sendData = "up=0&down=0&total=0&remark=" + DateTime.Now.Day.ToString()+name + "&enable=true&expiryTime=0&listen=&port=" + port + "&protocol=vmess&settings={\"clients\":[{\"id\":\"" + uuid + "\",\"alterId\":0}],\"disableInsecureEncryption\":false}&streamSettings={\"network\":\"ws\",\"security\":\"none\",\"wsSettings\":{\"path\":\"/\",\"headers\":{}}}&sniffing={\"enabled\":true,\"destOverride\":[\"http\",\"tls\"]}";
                 CookieStorage cookie = new CookieStorage();

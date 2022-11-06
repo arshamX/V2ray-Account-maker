@@ -9,3 +9,12 @@ C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Deb
 C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.csproj.CoreCompileInputs.cache
 C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.exe
 C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\Constants.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\Mthods.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\Constants.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\Mthods.pdb
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\obj\Debug\V2ray Account maker.csproj.CopyComplete
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\Leaf.xNet.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\IronBarCode.dll
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\Leaf.xNet.xml
+C:\Users\arsham\OneDrive\Desktop\V2ray Account maker\V2ray Account maker\bin\Debug\IronBarCode.xml

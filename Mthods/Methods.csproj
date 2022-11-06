@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculate.cs" />
+    <Compile Include="Qrcode.cs" />
     <Compile Include="Requests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
